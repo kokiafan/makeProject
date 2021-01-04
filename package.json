@@ -1,0 +1,14 @@
+{
+  "name": "mkproject",
+  "version": "1.0.0",
+  "description": "Create node or typescript project automatically",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "bin": {
+    "mkproject": "./index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
